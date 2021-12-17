@@ -13,14 +13,14 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://username.github.io/
 baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+title: Gopika Kini
+author: Gopika Kini
 description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
+avatar: profile.jpeg
+email:gopikagkini@gmail.com
 github: jekyllt/sustain # username
 twitter: username
-linkedin: username
+linkedin: gopika-kini
 stackoverflow: username   #e.g: users/2735833/proton1h1
 medium: username #e.g: NobelPeaceOslo
 #Comment out if you don't want disqus
