@@ -12,11 +12,11 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: /sustain/
+baseurl: 
 title: Gopika Kini
 author: Gopika Kini
 description: Personal blog and resume
-avatar: profile.jpeg
+avatar: profile.png
 email: gopikagkini@gmail.com
 github: jekyllt/sustain # username
 twitter: username
